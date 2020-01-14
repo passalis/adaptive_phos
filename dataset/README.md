@@ -1,1 +1,1 @@
-# adaptive_phos
+Please download the preprocessed data from [here](https://www.dropbox.com/s/vvvqwfejyertr4q/lob.tar.xz?dl=0). The dataset was based on the [FI-2010 dataset](https://etsin.avointiede.fi/dataset/urn-nbn-fi-csc-kata20170601153214969115).
